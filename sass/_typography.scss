@@ -1,0 +1,43 @@
+%link-font {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: rgba(0, 0, 0, 0.541327);
+}
+h1 {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    a {
+        text-decoration: none;
+        color: rgba(0, 0, 0, 0.87);
+    }
+}
+.tools__descr_link, .colors__descr_link, .switcher__size {
+    @extend %link-font;
+}
+.shortcuts {
+    font-family: Arial, Helvetica, sans-serif;
+    &__header {
+        font-size: 2rem;
+        font-weight: bold;
+    }
+    &__keys {
+        color: #fff;
+    }
+}
+.add-frame,
+.fps__current,
+.frame-num {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.frame-num {
+    font-weight: bold;
+}
+.add-frame {
+    font-size: 0.9rem;
+}
