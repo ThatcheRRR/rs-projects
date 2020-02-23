@@ -1,0 +1,29 @@
+{
+  "name": "codejam-image-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "lint": "eslint image-api/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThatcheRRR/codejam-image-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThatcheRRR/codejam-image-api/issues"
+  },
+  "homepage": "https://github.com/ThatcheRRR/codejam-image-api#readme",
+  "devDependencies": {
+    "eslint": "^6.1.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2"
+  },
+  "dependencies": {
+    "firebase": "^7.4.0",
+    "react-firebaseui": "^4.0.0"
+  }
+}
