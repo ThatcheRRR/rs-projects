@@ -9,4 +9,6 @@ codejam-palette: https://thatcherrr.github.io/codejam-palette/
 
 codejam-canvas: https://thatcherrr.github.io/codejam-canvas/
 
+codejam-virtual-keyboard: https://thatcherrr.github.io/codejam-virtual-keyboard/
+
 songbird: https://thatcherrr.github.io/songbird/
