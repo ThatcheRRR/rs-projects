@@ -14,3 +14,5 @@ codejam-virtual-keyboard: https://thatcherrr.github.io/codejam-virtual-keyboard/
 songbird: https://thatcherrr.github.io/songbird/
 
 singolo: https://thatcherrr.github.io/singolo/
+
+schedule: https://schedule-team20.netlify.app/
